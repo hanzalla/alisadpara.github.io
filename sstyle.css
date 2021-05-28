@@ -71,8 +71,8 @@
 .image-formation blockquote{
     position: absolute;
     top: 100%;
-    right: 20%;
-    left: 20%;
+    right: 25%;
+    left: 25%;
     text-justify:newspaper;
     opacity: 0;
     visibility: hidden;
@@ -87,7 +87,7 @@
     opacity: 01;
     transition: 2s ease-in;
     /* text-align: center; */
-    font-size: 2rem;
+    font-size: 20px;
     text-shadow:1px 1px grey;
     text-transform: capitalize;
     text-decoration:underline ;
